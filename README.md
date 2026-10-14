@@ -27,4 +27,4 @@ Backend engineer (3 years) building production systems in **Java and Spring Boot
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/cpy434/) · cpy11102001@gmail.com
+[LinkedIn](https://linkedin.com/in/cpy434/) · chandraprakashyadav1110@gmail.com
